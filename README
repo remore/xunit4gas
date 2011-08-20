@@ -1,6 +1,6 @@
-This experiment is too simple. Sample code is shown below.
+This experiment is too simple. Sample Google Apps Script code is shown below.
 
-[Sample Source Code]
+[Sample Source Code(Google Apps Script code)]
 
 eval(UrlFetchApp.fetch("https://raw.github.com/remore/framework_experiment/master/framework_experiment.js").getContentText());
   
