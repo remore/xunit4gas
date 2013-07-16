@@ -2,6 +2,8 @@
 
 This experiment is too simple, just version 0.0.0.0....1.
 
+[This presentation](http://www.slideshare.net/keiswd/google-apps-scripttdd) might be helpful to understand background of this code, if you really get interested in this.(but sorry only Japanese version is available.)
+
 ### Usage(Google Apps Script code)
 
     eval(UrlFetchApp.fetch("https://raw.github.com/remore/framework_experiment/master/framework_experiment.js").getContentText());
